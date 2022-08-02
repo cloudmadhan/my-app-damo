@@ -1,5 +1,5 @@
 // Added for demo
-# madhan commit testing hjbvbdvvdsnvksdk
+# madhan commit
 node{
    stage('SCM Checkout'){
      git 'https://github.com/javahometech/my-app'
